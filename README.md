@@ -16,7 +16,7 @@
 
 - Layout designer with html, css, scss and JavaScript
 - Student at the Belarusian National Technical University
-- Currently learning React js.
+- Wordpress developer.
 - 🤝 I’m available for freelancing.
 - How to reach me **kaarimatajanov@gmail.com**
 - 💬 My telegram chat @kaarim_01
